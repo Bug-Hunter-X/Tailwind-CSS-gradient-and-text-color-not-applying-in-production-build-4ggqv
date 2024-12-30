@@ -1,0 +1,1 @@
+The following Tailwind CSS classes are not applied correctly: `bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500` and `text-gray-900`. The background gradient is not shown, and the text color does not change to dark gray.  The issue only occurs in production mode, not in development mode. The code is the same in both environments. 
